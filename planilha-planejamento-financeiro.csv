@@ -1,0 +1,22 @@
+Categoria;Descricao;Valor;Prazo;Prioridade
+Objetivo Financeiro;Reserva de Emergencia;30000,00;12 meses;Alta
+Objetivo Financeiro;Viagem Internacional;15000,00;24 meses;Media
+Objetivo Financeiro;Entrada Casa Propria;80000,00;60 meses;Baixa
+;;;Total Objetivos;125000,00;
+Receitas Mensais;Salario;5000,00;Mensal;Fixa
+Receitas Mensais;Freelance;1200,00;Mensal;Variavel
+Receitas Mensais;Rendimentos;150,00;Mensal;Fixa
+;;;Total Receitas;6350,00;
+Gastos Essenciais;Aluguel;1800,00;Mensal;Fixa
+Gastos Essenciais;Condominio;450,00;Mensal;Fixa
+Gastos Essenciais;Internet;120,00;Mensal;Fixa
+Gastos Essenciais;Plano de Saude;380,00;Mensal;Fixa
+Gastos Essenciais;Transporte;250,00;Mensal;Fixa
+Gastos Essenciais;Supermercado;650,00;Mensal;Variavel
+;;;Total Gastos Essenciais;3650,00;
+Gastos Discricionarios;Restaurante;320,00;Mensal;Variavel
+Gastos Discricionarios;Lazer;200,00;Mensal;Variavel
+Gastos Discricionarios;Vestuario;180,00;Mensal;Variavel
+Gastos Discricionarios;Assinaturas;100,00;Mensal;Fixa
+;;;Total Gastos Discricionarios;800,00;
+;;;Poupanca Potencial;1900,00;

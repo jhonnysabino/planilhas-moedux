@@ -1,0 +1,17 @@
+Categoria;Descricao;Valor;Vencimento;Status
+Receitas;Salario;5000,00;05/07/2026;Recebido
+Receitas;Freelance;1200,00;15/07/2026;Recebido
+Receitas;Rendimentos;150,00;20/07/2026;Recebido
+;;;Total Receitas;6350,00
+Despesas Fixas;Aluguel;1800,00;10/07/2026;Pago
+Despesas Fixas;Condominio;450,00;10/07/2026;Pago
+Despesas Fixas;Internet;120,00;15/07/2026;Pago
+Despesas Fixas;Plano de Saude;380,00;20/07/2026;Pago
+Despesas Fixas;Transporte;250,00;05/07/2026;Pago
+;;;Total Despesas Fixas;3000,00
+Despesas Variaveis;Supermercado;650,00;12/07/2026;Pago
+Despesas Variaveis;Restaurante;320,00;18/07/2026;Pago
+Despesas Variaveis;Lazer;200,00;22/07/2026;Pago
+Despesas Variaveis;Vestuario;180,00;25/07/2026;Pago
+;;;Total Despesas Variaveis;1350,00
+;;;Saldo do Mes;2000,00

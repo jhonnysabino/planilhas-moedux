@@ -1,0 +1,17 @@
+Categoria;Descricao;Responsavel;Valor;Vencimento;Status
+Receitas;Salario;Pessoa A;5000,00;05/07/2026;Recebido
+Receitas;Salario;Pessoa B;4200,00;05/07/2026;Recebido
+Receitas;Rendimentos;Compartilhado;180,00;20/07/2026;Recebido
+;;;;Total Receitas;9380,00
+Despesas Fixas;Aluguel;Compartilhado;2200,00;10/07/2026;Pago
+Despesas Fixas;Condominio;Compartilhado;480,00;10/07/2026;Pago
+Despesas Fixas;Internet;Compartilhado;120,00;15/07/2026;Pago
+Despesas Fixas;Plano de Saude;Pessoa A;620,00;20/07/2026;Pago
+Despesas Fixas;Transporte;Pessoa B;280,00;05/07/2026;Pago
+;;;;Total Despesas Fixas;3700,00
+Despesas Variaveis;Supermercado;Compartilhado;900,00;12/07/2026;Pago
+Despesas Variaveis;Restaurante;Compartilhado;380,00;18/07/2026;Pago
+Despesas Variaveis;Lazer;Pessoa B;260,00;22/07/2026;Pago
+Despesas Variaveis;Vestuario;Pessoa A;190,00;25/07/2026;Pago
+;;;;Total Despesas Variaveis;1730,00
+;;;;Saldo do Mes;3950,00
