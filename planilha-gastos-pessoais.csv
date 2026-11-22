@@ -1,17 +1,16 @@
 Categoria;Descricao;Valor;Vencimento;Status
-Receitas;Salario;5000,00;05/07/2026;Recebido
-Receitas;Freelance;1200,00;15/07/2026;Recebido
-Receitas;Rendimentos;150,00;20/07/2026;Recebido
-;;;Total Receitas;6350,00
-Despesas Fixas;Aluguel;1800,00;10/07/2026;Pago
-Despesas Fixas;Condominio;450,00;10/07/2026;Pago
-Despesas Fixas;Internet;120,00;15/07/2026;Pago
-Despesas Fixas;Plano de Saude;380,00;20/07/2026;Pago
-Despesas Fixas;Transporte;250,00;05/07/2026;Pago
-;;;Total Despesas Fixas;3000,00
-Despesas Variaveis;Supermercado;650,00;12/07/2026;Pago
-Despesas Variaveis;Restaurante;320,00;18/07/2026;Pago
-Despesas Variaveis;Lazer;200,00;22/07/2026;Pago
-Despesas Variaveis;Vestuario;180,00;25/07/2026;Pago
-;;;Total Despesas Variaveis;1350,00
-;;;Saldo do Mes;2000,00
+Receitas;Salario;3200,00;05/07/2026;Recebido
+Receitas;Freelance;850,00;18/07/2026;Recebido
+;;;Total Receitas;4050,00
+Despesas Fixas;Aluguel;1400,00;10/07/2026;Pago
+Despesas Fixas;Internet;100,00;15/07/2026;Pago
+Despesas Fixas;Transporte;200,00;05/07/2026;Pago
+;;;Total Despesas Fixas;1700,00
+Despesas Variaveis;Mercado;220,00;03/07/2026;Pago
+Despesas Variaveis;Padaria;35,00;06/07/2026;Pago
+Despesas Variaveis;Uber;28,00;09/07/2026;Pago
+Despesas Variaveis;Farmacia;76,00;14/07/2026;Pago
+Despesas Variaveis;Restaurante;90,00;19/07/2026;Pago
+Despesas Variaveis;Cinema;45,00;24/07/2026;Pago
+;;;Total Despesas Variaveis;494,00
+;;;Saldo do Mes;1856,00
