@@ -1,6 +1,6 @@
 # Planilhas gratuitas de finanças pessoais — Moedux
 
-Cinco modelos em CSV, em português do Brasil, para organizar o dinheiro sem cadastro e sem planilha paga. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
+Seis modelos em CSV, em português do Brasil, para organizar o dinheiro sem cadastro e sem planilha paga. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
 
 Os arquivos usam `;` como separador e vírgula como decimal — o formato padrão do Excel em pt-BR.
 
@@ -13,6 +13,7 @@ Os arquivos usam `;` como separador e vírgula como decimal — o formato padrã
 | Gastos pessoais | Separar despesas individuais por categoria | [planilha-gastos-pessoais.csv](planilha-gastos-pessoais.csv) |
 | Planejamento financeiro | Objetivos, prazos e prioridades | [planilha-planejamento-financeiro.csv](planilha-planejamento-financeiro.csv) |
 | Controle financeiro do casal | Receitas e despesas com responsável por cada item | [planilha-controle-financeiro-casal.csv](planilha-controle-financeiro-casal.csv) |
+| Orçamento mensal | Comparar Planejado e Realizado, com diferença e totais automáticos | [planilha-orcamento-mensal.csv](planilha-orcamento-mensal.csv) · [ver modelo comentado](https://www.moedux.com/planilhas/orcamento-mensal?utm_source=github&utm_medium=lead_magnet&utm_campaign=orcamento-mensal) |
 
 A planilha de controle financeiro também traz uma seção **Mar Vermelho** com uma estimativa simples: saldo inicial, entrada mensal e conta fixa mensal. É uma amostra — a data exata depende de todos os seus lançamentos.
 
