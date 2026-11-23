@@ -1,0 +1,17 @@
+Tipo;Descricao;Valor;Vencimento
+Conta Fixa;Aluguel;1800,00;05
+Conta Fixa;Internet;120,00;10
+Conta Fixa;Plano de Saude;450,00;15
+Conta Fixa;Energia;180,00;20
+Gasto Variavel;Mercado;620,00;diario
+Gasto Variavel;Transporte;240,00;diario
+Gasto Variavel;Farmacia;95,00;diario
+Renda;Salario;5000,00;05
+Total Contas Fixas;;"=SUM(C2:C5)";
+Total Gastos Variaveis;;"=SUM(C6:C8)";
+Total de Saidas;;"=C10+C11";
+Saldo Livre;;"=C9-C12";
+Contas Fixas como percentual da Renda;;"=C10/C9*100";
+;;;
+Substitua os valores pelos seus numeros. Os totais e o percentual sao formulas: mude uma celula e a planilha se recalcula sozinha.
+Esta planilha separa Contas Fixas de Gastos Variaveis. Para enxergar a data em que o saldo cruza zero, use a previa gratuita em https://www.moedux.com/previa-mar-vermelho
