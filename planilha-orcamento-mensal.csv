@@ -1,0 +1,13 @@
+Categoria;Planejado;Realizado;Diferenca
+Salario;5000,00;5000,00;"=C2-B2"
+Freelance;500,00;300,00;"=C3-B3"
+Aluguel;1800,00;1800,00;"=C4-B4"
+Internet;120,00;120,00;"=C5-B5"
+Alimentacao;800,00;935,00;"=C6-B6"
+Transporte;300,00;250,00;"=C7-B7"
+Total Planejado;;;"=SUM(B2:B7)"
+Total Realizado;;;"=SUM(C2:C7)"
+Saldo do Mes;;;"=C9-B9"
+;;;
+Substitua os valores Planejado e Realizado pelos seus numeros. As diferencas e os totais sao formulas: mude uma celula e o orcamento se recalcula sozinho.
+Esta planilha anota o seu mes. Para enxergar a data em que o saldo cruza zero, use a previa gratuita em https://www.moedux.com/previa-mar-vermelho
