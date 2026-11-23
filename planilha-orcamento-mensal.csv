@@ -10,4 +10,5 @@ Total Realizado;;;"=SUM(C2:C7)"
 Saldo do Mes;;;"=C9-B9"
 ;;;
 Substitua os valores Planejado e Realizado pelos seus numeros. As diferencas e os totais sao formulas: mude uma celula e o orcamento se recalcula sozinho.
-Esta planilha anota o seu mes. Para enxergar a data em que o saldo cruza zero, use a previa gratuita em https://www.moedux.com/previa-mar-vermelho
+Esta planilha anota o seu mes.
+Proximo passo;Veja a data prevista do seu Mar Vermelho em 1 clique, sem cadastro: https://www.moedux.com/previa-mar-vermelho?utm_source=planilha&utm_medium=lead_magnet&utm_campaign=magnet-csv;;
