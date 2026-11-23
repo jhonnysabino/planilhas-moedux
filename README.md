@@ -32,6 +32,16 @@ O [Moedux](https://www.moedux.com/?utm_source=github&utm_medium=lead_magnet&utm_
 
 Mais material gratuito: [guias e calculadoras](https://www.moedux.com/guias?utm_source=github&utm_medium=lead_magnet&utm_campaign=planilhas).
 
+## Leia também
+
+Guias completos, em português, sobre as dúvidas que aparecem junto com estas planilhas:
+
+- [Diagnóstico financeiro gratuito](https://www.moedux.com/br/blog/diagnostico-financeiro-gratuito?utm_source=github&utm_medium=lead_magnet&utm_campaign=leia-tambem) — o que medir antes de projetar.
+- [Como organizar as contas e sair do vermelho](https://www.moedux.com/br/blog/organizar-contas-sair-do-vermelho?utm_source=github&utm_medium=lead_magnet&utm_campaign=leia-tambem) — cinco passos, com o Gasto Diário na conta certa.
+- [Controle financeiro com IA](https://www.moedux.com/br/blog/controle-financeiro-com-ia?utm_source=github&utm_medium=lead_magnet&utm_campaign=leia-tambem) — de números soltos a um diagnóstico legível.
+- [Quanto guardar por mês](https://www.moedux.com/br/blog/quanto-guardar-por-mes?utm_source=github&utm_medium=lead_magnet&utm_campaign=leia-tambem) — a taxa de poupança que o seu fluxo exige.
+- [Como calcular gastos mensais](https://www.moedux.com/br/blog/como-calcular-gastos-mensais?utm_source=github&utm_medium=lead_magnet&utm_campaign=leia-tambem) — Contas Fixas e Gasto Diário sem subcontar.
+
 ## Licença
 
 Os CSVs são modelos livres para uso pessoal. Sem garantia de resultado — finanças pessoais dependem dos seus dados reais.
