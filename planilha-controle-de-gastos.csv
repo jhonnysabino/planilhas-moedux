@@ -1,0 +1,45 @@
+Dia;Descricao;Categoria;Valor
+Dia 1;Mercado;Gasto Variavel;62,50
+Dia 2;Sem Gasto Variavel;—;0,00
+Dia 3;Padaria;Gasto Variavel;18,90
+Dia 4;Uber;Gasto Variavel;24,00
+Dia 5;Sem Gasto Variavel;—;0,00
+Dia 6;Farmacia;Gasto Variavel;46,80
+Dia 7;Mercado;Gasto Variavel;73,20
+Dia 8;Sem Gasto Variavel;—;0,00
+Dia 9;Transporte;Gasto Variavel;12,00
+Dia 10;Sem Gasto Variavel;—;0,00
+Dia 11;Mercado;Gasto Variavel;58,40
+Dia 12;Sem Gasto Variavel;—;0,00
+Dia 13;Padaria;Gasto Variavel;15,50
+Dia 14;Sem Gasto Variavel;—;0,00
+Dia 15;Uber;Gasto Variavel;31,90
+Dia 16;Sem Gasto Variavel;—;0,00
+Dia 17;Mercado;Gasto Variavel;81,10
+Dia 18;Farmacia;Gasto Variavel;28,00
+Dia 19;Sem Gasto Variavel;—;0,00
+Dia 20;Transporte;Gasto Variavel;9,80
+Dia 21;Sem Gasto Variavel;—;0,00
+Dia 22;Mercado;Gasto Variavel;66,30
+Dia 23;Sem Gasto Variavel;—;0,00
+Dia 24;Padaria;Gasto Variavel;21,40
+Dia 25;Sem Gasto Variavel;—;0,00
+Dia 26;Uber;Gasto Variavel;19,70
+Dia 27;Sem Gasto Variavel;—;0,00
+Dia 28;Mercado;Gasto Variavel;69,00
+Dia 29;Sem Gasto Variavel;—;0,00
+Dia 30;Farmacia;Gasto Variavel;33,60
+;;;
+Total Gasto Variavel (30 dias);;;"=SUM(D2:D31)"
+Gasto Diario Medio (estimativa);;;"=D33/30"
+;;;
+Saldo Inicial (exemplo);;;3000,00
+Entrada mensal (exemplo);;;2500,00
+Conta Fixa mensal (exemplo);;;3500,00
+Resultado mensal (Entrada menos Conta Fixa);;;"=D38-D39"
+Gasto Diario estimado pela diferenca mensal;;;"=D40/30"
+Estimativa de dias ate o Mar Vermelho;;;"=D37/D41"
+;;;
+Substitua os valores por 30 dias seus: dias sem Gasto Variavel contam como zero e divisor e 30 dias corridos. O Gasto Diario Medio e uma estimativa observada, nao uma configuracao manual. As formulas acompanham os seus numeros.
+Esta planilha anota o seu dia a dia.
+Proximo passo;Veja a data prevista do seu Mar Vermelho em 1 clique, sem cadastro: https://www.moedux.com/previa-mar-vermelho?pv_entrada=2500&pv_saida=3500&pv_saldo=3000&utm_source=planilha&utm_medium=lead_magnet&utm_campaign=magnet-csv;;
