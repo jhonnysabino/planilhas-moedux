@@ -1,6 +1,6 @@
 # Planilhas gratuitas de finanças pessoais — Moedux
 
-Oito modelos em CSV e um modelo Excel real (`.xlsx`, com fórmulas vivas), em português do Brasil, para organizar o dinheiro sem cadastro e sem planilha paga. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
+Dez modelos em CSV e um modelo Excel real (`.xlsx`, com fórmulas vivas), em português do Brasil, para organizar o dinheiro sem cadastro e sem planilha paga. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
 
 Os arquivos usam `;` como separador e vírgula como decimal — o formato padrão do Excel em pt-BR.
 
@@ -18,8 +18,10 @@ Os arquivos usam `;` como separador e vírgula como decimal — o formato padrã
 | Gastos fixos | Separar Contas Fixas do Gasto Variável e calcular quanto da renda já está comprometida | [planilha-gastos-fixos.csv](planilha-gastos-fixos.csv) · [ver modelo comentado](https://www.moedux.com/planilhas/gastos-fixos?utm_source=github&utm_medium=lead_magnet&utm_campaign=gastos-fixos) |
 
 | Controle de gastos (30 dias) | Anotar o Gasto Variável dia a dia, com dias sem gasto contando como zero e o Gasto Diário médio calculado | [planilha-controle-de-gastos.csv](planilha-controle-de-gastos.csv) · [ver modelo comentado](https://www.moedux.com/planilhas/controle-de-gastos?utm_source=github&utm_medium=lead_magnet&utm_campaign=controle-gastos) |
+| Dívidas | Credor, saldo, juros e parcela, com meses até quitar e total pago em fórmulas | [planilha-dividas.csv](planilha-dividas.csv) · [ver modelo comentado](https://www.moedux.com/planilhas/dividas?utm_source=github&utm_medium=lead_magnet&utm_campaign=dividas) |
+| Reserva de emergência | Meta a partir da Despesa Fixa, quanto falta e aporte mensal | [planilha-reserva-de-emergencia.csv](planilha-reserva-de-emergencia.csv) · [ver modelo comentado](https://www.moedux.com/planilhas/reserva-de-emergencia?utm_source=github&utm_medium=lead_magnet&utm_campaign=reserva) |
 
-A planilha de controle financeiro também traz uma seção **Mar Vermelho** com uma estimativa simples: saldo inicial, entrada mensal e conta fixa mensal. É uma amostra — a data exata depende de todos os seus lançamentos.
+A planilha de controle financeiro também traz uma seção **Mar Vermelho** com uma estimativa simples: saldo inicial, entrada mensal e conta fixa mensal. É uma amostra — a data prevista depende de todos os seus lançamentos.
 
 ## Veja o resultado antes de preencher qualquer coisa
 
