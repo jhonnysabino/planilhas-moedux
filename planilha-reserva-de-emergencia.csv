@@ -1,0 +1,13 @@
+Item;Valor;Prazo;Observacao
+Despesa Fixa mensal;3500,00;;Base da reserva: contas que nao param (aluguel, internet, plano de saude)
+Meses de reserva;6;;Convencao para renda variavel; ajuste para 3 se a renda for estavel
+Meta da reserva;;"=B2*B3";estimativa do valor necessario para cobrir os meses escolhidos
+Ja guardado;12000,00;;Saldo separado apenas para emergencia
+Falta para a meta;;"=MAX(0;B4-B5)";zero quer dizer que a meta foi atingida
+Reserva atual em meses;;"=B5/B2";estimativa: quantos meses o valor guardado cobre
+Guardar por mes (12 meses);;"=B6/12";aporte mensal para fechar a meta em um ano
+Total Guardado no ano;;"=B5+B8*12";projecao se o aporte mensal for mantido
+;;;
+Substitua a Despesa Fixa, os Meses de reserva e o valor Ja guardado pelos seus numeros. A meta, a falta e o aporte sao formulas: mude uma celula e a planilha se recalcula sozinha.
+Esta planilha organiza a sua reserva; ela nao projeta a data em que o saldo chega a zero.
+Proximo passo;Veja em 1 clique, sem cadastro, a data prevista do seu Mar Vermelho e o próximo passo: https://www.moedux.com/previa-mar-vermelho?pv_entrada=2500&pv_saida=3500&pv_saldo=3000&utm_source=planilha&utm_medium=lead_magnet&utm_campaign=magnet-csv;;
