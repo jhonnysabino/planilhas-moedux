@@ -1,6 +1,6 @@
 # Planilhas gratuitas de finanças pessoais — Moedux
 
-Oito modelos em CSV, em português do Brasil, para organizar o dinheiro sem cadastro e sem planilha paga. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
+Oito modelos em CSV e um modelo Excel real (`.xlsx`, com fórmulas vivas), em português do Brasil, para organizar o dinheiro sem cadastro e sem planilha paga. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
 
 Os arquivos usam `;` como separador e vírgula como decimal — o formato padrão do Excel em pt-BR.
 
@@ -8,6 +8,7 @@ Os arquivos usam `;` como separador e vírgula como decimal — o formato padrã
 
 | Planilha | Para que serve | Download |
 |---|---|---|
+| **Controle financeiro em Excel (.xlsx)** | **Arquivo Excel real, com fórmulas vivas: totais, saldo, gasto diário e dias até o Mar Vermelho** | [planilha-controle-financeiro.xlsx](planilha-controle-financeiro.xlsx) · [ver modelo comentado](https://www.moedux.com/planilhas/controle-financeiro-pessoal-excel?utm_source=github&utm_medium=lead_magnet&utm_campaign=planilha-xlsx) |
 | Controle financeiro | Receitas, despesas fixas e variáveis com totais e saldo do mês | [planilha-controle-financeiro.csv](planilha-controle-financeiro.csv) |
 | Gastos mensais | Acompanhar para onde vai o dinheiro mês a mês | [planilha-gastos-mensais.csv](planilha-gastos-mensais.csv) |
 | Gastos pessoais | Separar despesas individuais por categoria | [planilha-gastos-pessoais.csv](planilha-gastos-pessoais.csv) |
@@ -46,4 +47,4 @@ Guias completos, em português, sobre as dúvidas que aparecem junto com estas p
 
 ## Licença
 
-Os CSVs são modelos livres para uso pessoal. Sem garantia de resultado — finanças pessoais dependem dos seus dados reais.
+Os CSVs e o arquivo `.xlsx` são modelos livres para uso pessoal. Sem garantia de resultado — finanças pessoais dependem dos seus dados reais.
