@@ -1,0 +1,13 @@
+Divida;Credor;Saldo Devedor;Juros ao Mes (%);Pagamento Mensal;Meses para Quitar;Vencimento;Observacao
+Cartao de credito;Banco;3000,00;10,00;500,00;"=LOG(E2/(E2-D2/100*C2))/LOG(1+D2/100)";10/12;Maior juros: prioridade na avalanche
+Emprestimo pessoal;Financeira;6000,00;2,00;500,00;"=LOG(E3/(E3-D3/100*C3))/LOG(1+D3/100)";05/12;Parcela fixa ja contratada
+Loja / carne;Loja;1200,00;0,00;200,00;"=C4/E4";20/12;Sem juros: saldo dividido pela parcela
+TOTAL;;"=SUM(C2:C4)";;"=SUM(E2:E4)";;"";
+;;;;
+Como usar;O que fazer
+1;Troque as tres linhas de exemplo pelas suas dividas. Cada linha e uma divida.
+2;Informe o saldo devedor de hoje, os juros ao mes (ex.: 10 para 10%) e a parcela que voce consegue pagar.
+3;A coluna Meses para Quitar usa juro composto. Se a parcela nao cobrir os juros do mes, o saldo cresce: renegocie a divida ou aumente a parcela.
+4;Divida sem juros: os meses sao o saldo dividido pela parcela.
+5;Meses para Quitar e uma estimativa. Ela assume que voce nao faz novos gastos na divida e nao antecipa parcelas.
+6;Depois de quitar, a proxima pergunta e quando o seu saldo chega a zero. Use a previa gratuita em moedux.com/previa-mar-vermelho.
