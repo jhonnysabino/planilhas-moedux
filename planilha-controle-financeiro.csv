@@ -23,4 +23,4 @@ Mar Vermelho;Resultado mensal (Entrada menos Conta Fixa);"=C20-C21";;Formula est
 Mar Vermelho;Gasto Diario estimado (Conta Fixa menos Entrada)/30;"=(C21-C20)/30";;Formula estimativa
 Mar Vermelho;Dias ate o Mar Vermelho (Saldo Inicial / Gasto Diario);"=C19/((C21-C20)/30)";;Formula estimativa
 Mar Vermelho;Substitua os tres valores acima pelos seus;;;Comece aqui
-Proximo passo;Veja a data prevista do seu Mar Vermelho em 1 clique, sem cadastro: https://www.moedux.com/previa-mar-vermelho?pv_entrada=2500&pv_saida=3500&pv_saldo=3000&utm_source=planilha&utm_medium=lead_magnet&utm_campaign=magnet-csv;;;
+Proximo passo;Veja em 1 clique, sem cadastro, a data prevista do seu Mar Vermelho e o próximo passo: https://www.moedux.com/previa-mar-vermelho?pv_entrada=2500&pv_saida=3500&pv_saldo=3000&utm_source=planilha&utm_medium=lead_magnet&utm_campaign=magnet-csv;;;
