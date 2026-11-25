@@ -1,0 +1,29 @@
+# Planilhas gratuitas de finanças pessoais — Moedux
+
+> Dez modelos em CSV e um modelo Excel (.xlsx) com fórmulas vivas, em português do Brasil, para organizar o dinheiro sem cadastro. Os arquivos usam `;` como separador e vírgula como decimal — o padrão do Excel em pt-BR. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
+
+## Planilhas
+
+- [Controle financeiro em Excel (.xlsx)](https://jhonnysabino.github.io/planilhas-moedux/planilha-controle-financeiro.xlsx): arquivo Excel real com fórmulas vivas — totais, saldo, gasto diário e dias até o Mar Vermelho.
+- [Controle financeiro (CSV)](https://jhonnysabino.github.io/planilhas-moedux/planilha-controle-financeiro.csv): receitas, despesas fixas e variáveis com totais e saldo do mês.
+- [Gastos mensais](https://jhonnysabino.github.io/planilhas-moedux/planilha-gastos-mensais.csv): acompanhar para onde vai o dinheiro mês a mês.
+- [Gastos pessoais](https://jhonnysabino.github.io/planilhas-moedux/planilha-gastos-pessoais.csv): despesas individuais por categoria.
+- [Planejamento financeiro](https://jhonnysabino.github.io/planilhas-moedux/planilha-planejamento-financeiro.csv): objetivos, prazos e prioridades.
+- [Controle financeiro do casal](https://jhonnysabino.github.io/planilhas-moedux/planilha-controle-financeiro-casal.csv): receitas e despesas com responsável por cada item.
+- [Orçamento mensal](https://jhonnysabino.github.io/planilhas-moedux/planilha-orcamento-mensal.csv): comparar Planejado e Realizado, com diferença e totais automáticos.
+- [Gastos fixos](https://jhonnysabino.github.io/planilhas-moedux/planilha-gastos-fixos.csv): separar Contas Fixas do Gasto Variável e medir quanto da renda já está comprometida.
+- [Controle de gastos (30 dias)](https://jhonnysabino.github.io/planilhas-moedux/planilha-controle-de-gastos.csv): anotar o Gasto Variável dia a dia, com dias sem gasto contando como zero.
+- [Dívidas](https://jhonnysabino.github.io/planilhas-moedux/planilha-dividas.csv): credor, saldo, juros e parcela, com meses até quitar e total pago em fórmulas.
+- [Reserva de emergência](https://jhonnysabino.github.io/planilhas-moedux/planilha-reserva-de-emergencia.csv): meta a partir da Despesa Fixa, quanto falta e aporte mensal.
+
+## O próximo passo depois da planilha
+
+- [Prévia do Mar Vermelho sem cadastro](https://www.moedux.com/previa-mar-vermelho?utm_source=github&utm_medium=lead_magnet&utm_campaign=llms-txt): a planilha organiza os números; a prévia responde a pergunta que falta — em que data o saldo chega a zero. Três campos, sem conta.
+- [Modelos comentados](https://www.moedux.com/planilhas?utm_source=github&utm_medium=lead_magnet&utm_campaign=llms-txt): a versão de cada planilha com explicação de uso.
+- [Calculadora de salário líquido](https://www.moedux.com/calculadoras/salario-liquido?utm_source=github&utm_medium=lead_magnet&utm_campaign=llms-txt): INSS e IRRF de 2026 a partir do salário bruto.
+- [Moedux](https://www.moedux.com/?utm_source=github&utm_medium=lead_magnet&utm_campaign=llms-txt): o app que transforma transações e contas em diagnóstico e próxima ação; 14 dias grátis, sem cartão.
+
+## Optional
+
+- [Servidor MCP do Moedux](https://www.moedux.com/mcp): ferramentas de cálculo financeiro brasileiro para agentes de IA, sem cadastro.
+- [Contrato OpenAPI 3.1](https://www.moedux.com/openapi.json) e [ferramentas para agentes](https://jhonnysabino.github.io/moedux-agent-tools/).
