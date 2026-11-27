@@ -1,10 +1,14 @@
 # Planilhas gratuitas de finanças pessoais — Moedux
 
-> Dez modelos em CSV e um modelo Excel (.xlsx) com fórmulas vivas, em português do Brasil, para organizar o dinheiro sem cadastro. Os arquivos usam `;` como separador e vírgula como decimal — o padrão do Excel em pt-BR. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
+> Dez modelos em CSV e quatro modelos Excel (.xlsx) com fórmulas vivas, em português do Brasil, para organizar o dinheiro sem cadastro. Os arquivos usam `;` como separador e vírgula como decimal — o padrão do Excel em pt-BR. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
 
 ## Planilhas
 
 - [Controle financeiro em Excel (.xlsx)](https://jhonnysabino.github.io/planilhas-moedux/planilha-controle-financeiro.xlsx): arquivo Excel real com fórmulas vivas — totais, saldo, gasto diário e dias até o Mar Vermelho.
+- [13º salário em Excel (.xlsx)](https://jhonnysabino.github.io/planilhas-moedux/planilha-decimo-terceiro.xlsx): as duas parcelas com INSS e IRRF de 2026 — a 1ª até 30/11 sem desconto, a 2ª até 20/12 com os descontos — e quantos meses do seu déficit mensal o 13º cobre.
+- [Férias em Excel (.xlsx)](https://jhonnysabino.github.io/planilhas-moedux/planilha-ferias.xlsx): férias brutas com o terço dentro, abono isento de 10 dias, INSS e IRRF.
+- [Rescisão em Excel (.xlsx)](https://jhonnysabino.github.io/planilhas-moedux/planilha-rescisao.xlsx): as quatro formas de saída com as verbas e os descontos.
+- [Fluxo de caixa pessoal em Excel (.xlsx)](https://jhonnysabino.github.io/planilhas-moedux/planilha-fluxo-de-caixa-pessoal.xlsx): 365 dias de saldo projetado e a data em que o dinheiro acaba.
 - [Controle financeiro (CSV)](https://jhonnysabino.github.io/planilhas-moedux/planilha-controle-financeiro.csv): receitas, despesas fixas e variáveis com totais e saldo do mês.
 - [Gastos mensais](https://jhonnysabino.github.io/planilhas-moedux/planilha-gastos-mensais.csv): acompanhar para onde vai o dinheiro mês a mês.
 - [Gastos pessoais](https://jhonnysabino.github.io/planilhas-moedux/planilha-gastos-pessoais.csv): despesas individuais por categoria.

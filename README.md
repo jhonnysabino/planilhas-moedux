@@ -1,6 +1,6 @@
 # Planilhas gratuitas de finanças pessoais — Moedux
 
-Dez modelos em CSV e um modelo Excel real (`.xlsx`, com fórmulas vivas), em português do Brasil, para organizar o dinheiro sem cadastro e sem planilha paga. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
+Dez modelos em CSV e quatro modelos Excel reais (`.xlsx`, com fórmulas vivas), em português do Brasil, para organizar o dinheiro sem cadastro e sem planilha paga. Baixe, abra no Excel, LibreOffice ou Google Sheets e substitua os dados de exemplo pelos seus.
 
 Os arquivos usam `;` como separador e vírgula como decimal — o formato padrão do Excel em pt-BR.
 
@@ -9,6 +9,10 @@ Os arquivos usam `;` como separador e vírgula como decimal — o formato padrã
 | Planilha | Para que serve | Download |
 |---|---|---|
 | **Controle financeiro em Excel (.xlsx)** | **Arquivo Excel real, com fórmulas vivas: totais, saldo, gasto diário e dias até o Mar Vermelho** | [planilha-controle-financeiro.xlsx](planilha-controle-financeiro.xlsx) · [ver modelo comentado](https://www.moedux.com/planilhas/controle-financeiro-pessoal-excel?utm_source=github&utm_medium=lead_magnet&utm_campaign=planilha-xlsx) |
+| **13º salário em Excel (.xlsx)** | **As duas parcelas com INSS e IRRF de 2026, e quantos meses do seu déficit mensal o 13º cobre** | [planilha-decimo-terceiro.xlsx](planilha-decimo-terceiro.xlsx) · [ver modelo comentado](https://www.moedux.com/planilhas/decimo-terceiro?utm_source=github&utm_medium=lead_magnet&utm_campaign=decimo-terceiro-xlsx) |
+| **Férias em Excel (.xlsx)** | Férias brutas com o terço dentro, abono isento de 10 dias, INSS e IRRF | [planilha-ferias.xlsx](planilha-ferias.xlsx) · [ver modelo comentado](https://www.moedux.com/planilhas/ferias?utm_source=github&utm_medium=lead_magnet&utm_campaign=ferias-xlsx) |
+| **Rescisão em Excel (.xlsx)** | As quatro formas de saída (sem justa causa, pedido, acordo e justa causa) com as verbas e os descontos | [planilha-rescisao.xlsx](planilha-rescisao.xlsx) · [ver as regras](https://www.moedux.com/calculadoras/rescisao?utm_source=github&utm_medium=lead_magnet&utm_campaign=rescisao-xlsx) |
+| **Fluxo de caixa pessoal em Excel (.xlsx)** | 365 dias de saldo projetado e a data em que o dinheiro acaba, dia a dia | [planilha-fluxo-de-caixa-pessoal.xlsx](planilha-fluxo-de-caixa-pessoal.xlsx) · [ver modelo comentado](https://www.moedux.com/planilhas/fluxo-de-caixa-pessoal?utm_source=github&utm_medium=lead_magnet&utm_campaign=fluxo-xlsx) |
 | Controle financeiro | Receitas, despesas fixas e variáveis com totais e saldo do mês | [planilha-controle-financeiro.csv](planilha-controle-financeiro.csv) |
 | Gastos mensais | Acompanhar para onde vai o dinheiro mês a mês | [planilha-gastos-mensais.csv](planilha-gastos-mensais.csv) |
 | Gastos pessoais | Separar despesas individuais por categoria | [planilha-gastos-pessoais.csv](planilha-gastos-pessoais.csv) |
